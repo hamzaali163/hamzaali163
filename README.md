@@ -16,7 +16,7 @@
    <a href="https://www.facebook.com/profile.php?id=100008721317739">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-    <a href="https://www.facebook.com/profile.php?id=100008721317739">
+    <a href="www.linkedin.com/in/syed-hamza-ali-72b599209">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
