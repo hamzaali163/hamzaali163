@@ -16,9 +16,10 @@
    <a href="https://www.facebook.com/profile.php?id=100008721317739">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100008721317739">
-    <img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" alt="LinkedIn Badge"/>
+    <a href="https://www.facebook.com/profile.php?id=100008721317739">
+    <img src="https://img.shields.io/badge/Linkedin?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ 
 </div>
 
 ### Languages and Tools:
