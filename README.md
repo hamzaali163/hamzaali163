@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Hamza Ali</h1>
+ <h1 align="center">Hi 👋, I'm Syed Hamza Ali</h1>
 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Flutter
