@@ -29,6 +29,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaali163&theme=dark)
 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 <br>
 ⭐️ From [hamzaali163](https://github.com/hamzaali163)
