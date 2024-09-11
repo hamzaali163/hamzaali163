@@ -30,6 +30,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaali163&theme=dark)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://ih1.redbubble.net/image.5325362029.6762/pp,504x498-pad,600x600,f8f8f8.jpg)
 <br>
 ⭐️ From [hamzaali163](https://github.com/hamzaali163)
