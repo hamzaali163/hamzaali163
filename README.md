@@ -30,6 +30,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaali163&theme=dark)
 
 ### ✍️ Random Dev Quote
-![](https://ih1.redbubble.net/image.5325362036.6762/st,small,507x507-pad,600x600,f8f8f8.jpg)
+<img src="https://ih1.redbubble.net/image.5325362036.6762/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="Sample Image" height="200">
 <br>
 <br>
