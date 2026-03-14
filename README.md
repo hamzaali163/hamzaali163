@@ -25,7 +25,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,github,postman,figma,xd&perline=5)](https://skillicons.dev)
 
-![Hamza Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaali163&show_icons=true&theme=dark&commits_year=2025)
+![Hamza Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaali163&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaali163&theme=dark)
 
